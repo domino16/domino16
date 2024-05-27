@@ -14,7 +14,7 @@ Hello there! I'm Dominik, a passionate <strong> frontend developer </strong> spe
 
 ---
 
-### Technologies
+### 🌐 Technologies
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" alt="angular"
 	width="40" height="40" style="padding-right:10px;" />
